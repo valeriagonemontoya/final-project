@@ -139,3 +139,12 @@ body {
     align-items: center;
     margin: 20px;
   }
+
+  .container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+    
+
