@@ -20,7 +20,10 @@ body {
     nav{
       display: flex;
       justify-content: space-between;
+      
     }
+   
+    
   
     ul{
       display: flex;
@@ -58,8 +61,8 @@ body {
       margin-bottom: 200px;
     }
     .button {
-      width: 200px;
-      height: 55px;
+      width: 100px;
+      height: 50px;
       border-radius: 25px;
       background-color: lightblue ;
       text-align: center;
@@ -128,6 +131,7 @@ body {
     color:#996bab;
     text-align: center;
     padding: 80px;
+    
     
 
   }
